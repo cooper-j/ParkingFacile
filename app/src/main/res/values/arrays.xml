@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="towns">
+        <item>Rennes</item>
+        <item>Nantes</item>
+        <item>Paris</item>
+        <item>Bordeaux</item>
+        <item>Strasbourg</item>
+    </array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rennes_lat" format="float" type="dimen">48.1119800</item>
+    <item name="rennes_lng" format="float" type="dimen">-1.6742900</item>
+</resources>

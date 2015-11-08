@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AccesParking</string>
+    <string name="title_activity_main">Map</string>
+
+    <!-- UI text -->
+
+    <string name="pick_town">Choisir une ville</string>
+    <string name="parking_all">Afficher les données Google</string>
+    <string name="town">Villes</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+
+    <!-- Villes -->
+    <string name="rennes">Rennes</string>
+    <string name="nantes">Nantes</string>
+    <string name="paris">Paris</string>
+    <string name="bordeaux">Bordeaux</string>
+    <string name="strasbourg">Strasbourg</string>
+
+    <!-- API -->
+    <string name="api_parking">http://data.citedia.com/r1</string>
+    <string name="api_parks">/parks</string>
+    <string name="api_parks_status">/status</string>
+    <string name="api_parks_detail">/</string>
+    <string name="api_parks_free">/free</string>
+    <string name="api_parks_time_price">/timetable-and-prices</string>
+</resources>
